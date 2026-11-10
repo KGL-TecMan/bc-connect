@@ -3,7 +3,6 @@
 
 BC Sign In Page: https://www.microsoft.com/en-us/dynamics-365/products/business-central/sign-in 
 
-UserPrincipalName	Password  
 
 BCConnect1@tecmanopsteam.co.uk	Aa1!XArVaCmSpzAX5@s8  
 
