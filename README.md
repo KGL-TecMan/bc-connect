@@ -1,4 +1,4 @@
-# bc-connect
+# BC Connect - Useful Links
 
 
 BC Sign In Page: https://www.microsoft.com/en-us/dynamics-365/products/business-central/sign-in
