@@ -3,7 +3,8 @@
 
 BC Sign In Page: https://www.microsoft.com/en-us/dynamics-365/products/business-central/sign-in 
 
-UserPrincipalName	Password
+UserPrincipalName	Password  
+
 BCConnect1@tecmanopsteam.co.uk	Aa1!XArVaCmSpzAX5@s8  
 
 BCConnect2@tecmanopsteam.co.uk	Aa1!t2mYKbvh@C@dVUSR1  
@@ -39,6 +40,8 @@ Make sure you are accessing the correct sandbox - BCConnectDemo1
 
 
 Bifrost MCP: https://bifrost.origo.is/mcp  
+
+https://copilotstudio.microsoft.com/c2/tenants/649235ef-4a1f-46f1-8730-a6155d89a9fa/environments/7f920463-b848-eabe-9d2e-0f692abf5b41/cliagent/crad9_bifrostchat_yh45qr/channels/pva-studio/user-connections?shareRef=8be5ee90382d4d2f9a3cb417812mml7f
 
 
 BiFrost Chat Prompts  
